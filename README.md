@@ -15,7 +15,7 @@ This is a Interactive Voice Response (IVR) demo app powered by Rails and the Nex
 * Create a Nexmo application from the Nexmo dashboard
 * Link your virtual number to your application in the Nexmo dashboard
 * Define your Nexmo credentials in a `/.env` file *or* with Rails Credentials
-* Define the value for `BASE_URLS` in the `ivr_controller.rb` file
+* Define the value for `BASE_URL` in the `ivr_controller.rb` file
 * Start up the Rails server
 * Make your server externally accessible with ngrok
 
