@@ -17,6 +17,7 @@ class IvrController < ApplicationController
                 :eventUrl => ["#{BASE_URL}/event"]
             }
         ].to_json
+    end
 end
 
     def event
